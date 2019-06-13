@@ -13,17 +13,16 @@
  y actualizada a la de 'master'.
 
 - El merge del paso 19, ¿Causó algún conﬂicto? ¿Por qué? 
- Sí, por que se hizo un merge del mismo archivo modificado en diferentes ramas y al mismo nivel.
+ Sí, por que se hizo un merge del mismo archivo modificado en diferentes ramas y la misma linea.
  
 - El merge del paso 21, ¿Causó algún conﬂicto? ¿Por qué? 
- No, por que al hacerlo desde la rama 'master', que es un archivo mas antiguo y por debajo de la rama 'styled', absorve los cambios
- de la otra rama.
+ No, por que al hacerlo desde la rama 'master', que es un archivo mas antiguo y por debajo de la la linea de la rama 'styled', absorve los cambiosde la otra rama.
 
 - ¿Qué comando o comandos utilizaste en el paso 25? 
   git log --graph --decorate --pretty=oneline
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué? 
-  Sí, por que el archivo de la rama 'title' esta en un nivel más avanzado que el de la rama 'master', al hacer el merge absorve 
+  Sí, por que el archivo de la rama 'title' esta en una linea más avanzada que la de la rama 'master', al hacer el merge absorve 
  los cambios, sin causar conflictos si quiera.
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
