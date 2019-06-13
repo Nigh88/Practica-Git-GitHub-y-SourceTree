@@ -1,7 +1,7 @@
 # Practica-Git-GitHub-y-SourceTree
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué? 
- git reset --hard HEAD~1, por que si usaba git reset HEAD~1 los cambios del working copy se mantendrian
+ git reset --hard HEAD~1, por que si usaba git reset los cambios del working copy se mantendrian
  y solo se desharía el ultimo commit.
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué? 
