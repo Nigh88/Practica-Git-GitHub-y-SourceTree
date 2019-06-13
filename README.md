@@ -30,10 +30,10 @@
  git reset HEAD~1
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
- git checkout -- <file>
+ git checkout -- <nombre archivo>
 
 - ¿Qué comando o comandos utilizaste en el paso 29?
- git branch -D <branch>
+ git branch -D <rama>
 
 - ¿Qué comando o comandos utilizaste en el paso 30? 
  git reflog y git checkout xxxxxxx
