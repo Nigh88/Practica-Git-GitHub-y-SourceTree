@@ -42,3 +42,5 @@
 
 - ¿Qué comando o comandos usaste en el punto 33?
  git reflog y git reset --hard xxxxxxx
+ 
+ *Aunque no creo que haga falta, donde 'xxxxxx' iria el código de referencia del reflog.*
